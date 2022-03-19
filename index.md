@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "On Style and Clothing"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Deep dives on men's style.
